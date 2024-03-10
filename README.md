@@ -14,7 +14,7 @@ Preview of the game:
 
 ![image](https://github.com/adriangiurescu/ScrabbleGame/assets/119113960/0ee7ecf8-8245-4bf8-99be-809595d3d3f3)
 
-You can downnload the exec of the game from here: https://we.tl/t-w27pp3SEIb (Some files are too large to upload directly to GitHub, and too many to use Git LFS)
+You can downnload the exec of the game from here: https://we.tl/t-RnYHMLTNbc (Some files are too large to upload directly to GitHub, and too many to use Git LFS)
 
 If the link above expired please contact me!
 
